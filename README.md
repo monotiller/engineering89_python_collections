@@ -5,7 +5,7 @@
 - Dict
 - Sets
 
-### Lists
+## Lists
 A.K.A. arrays in other languages
 - Shopping list - multiple items
 - add, edit, delete, update
